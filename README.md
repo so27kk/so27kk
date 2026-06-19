@@ -29,12 +29,5 @@
 - **기술:** Spring Boot
 
 ---
-
-## 📈 GitHub Stats
-
-![so27kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=so27kk&show_icons=true&theme=radium)
-
----
-
 ## 📫 Contact Me
 - **Email:** [so27k@naver.com]
