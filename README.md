@@ -32,7 +32,7 @@
 ### 🎟️ 티켓 예매 사이트 구축
 - **기간:** 2026.06.18 ~ 2026.07.10
 - **GitHub:** [[TicketFlow](https://github.com/TJ-TicketFlow/TicketFlow/tree/master-deploy)]
-- **주요 기술:** Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript, Python,Docker
+- **주요 기술:** Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript, Python, Docker
 - **담당 역할 및 구현 기능:**
   - **DB 설계:** 서비스에 필요한 데이터베이스 테이블 구조 및 관계 매핑 설계
   - **예매 기능 구현:** 사용자의 티켓 예매 프로세스 및 데이터 처리 로직 구현
