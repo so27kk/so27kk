@@ -12,6 +12,10 @@
 - Java
 - Spring Boot
 
+**Frontend**
+- HTML
+- JavaScript
+
 **Database**
 - MySQL
 - ElasticSearch
