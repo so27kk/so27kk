@@ -26,18 +26,19 @@
 ## 🚀 Projects
 
 ### 🎟️ 티켓 예매 사이트 구축
-- **기간:** 2026.05
+- **기간:** 2026.06.18 ~ 2026.07.10
 - **GitHub:** [[TicketFlow](https://github.com/TJ-TicketFlow/TicketFlow/tree/master-deploy)]
-- **주요 기술:** Java, Spring Boot, MySQL
+- **주요 기술:** Java, Spring Boot, Thymeleaf, MySQL, HTML, CSS, JavaScript, Python,Docker
 - **담당 역할 및 구현 기능:**
   - **DB 설계:** 서비스에 필요한 데이터베이스 테이블 구조 및 관계 매핑 설계
   - **예매 기능 구현:** 사용자의 티켓 예매 프로세스 및 데이터 처리 로직 구현
   - **좌석 관리 기능 구현:** 실시간 좌석 예약 상태 반영 및 중복 예매 방지 기능 구현
+  - **티켓 취소 확률 예측 ML:** Python을 활용한 머신러닝 예측 모델을 구축하고, ONNX 모델로 구현하여 티켓 취소 확률 제공
 
 ### ☕ 카페 검색 웹 애플리케이션
-- **기간:** 2026.04
+- **기간:** 2026.03.03 ~ 2026.04.20
 - **GitHub:** [[Cafein](https://github.com/so27kk/CafeSearchWebApplication)]
-- **주요 기술:** Java, Spring Boot, MySQL, Thymeleaf, HTML, CSS, JavaScript
+- **주요 기술:** Java, Spring Boot, MySQL, JSP, HTML, CSS, JavaScript
 - **담당 역할 및 구현 기능:**
   - **DB 설계:** 카페, 리뷰, 즐겨찾기 등 서비스에 필요한 데이터베이스 테이블 구조 및 관계 매핑 설계
   - **카페 상세 페이지 구현:** 카페 정보, 메뉴, 위치, 운영시간 등 상세 정보 조회 기능 구현
